@@ -1,6 +1,10 @@
-### Termos e acordos
+### Descrição
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+Este projeto foi desenvolvido durante o período de Curso da Trybe :rocket:
+
+O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.
+
+---
 
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
