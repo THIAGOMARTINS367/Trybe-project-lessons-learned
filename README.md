@@ -6,22 +6,12 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 
 ---
 
-# Boas vindas ao repositório do projeto Lições Aprendidas!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
----
-
 ## SUMÁRIO
 
 - [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
+- Instruções para entregar seu projeto
   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
   - [Durante o desenvolvimento](#durante-o-desenvolvimento)
 - [Como desenvolver](#como-desenvolver)
@@ -46,10 +36,6 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     - [13. Utilize o Box model](#13-utilize-o-box-model)
     - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
     - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
-- [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
-
 
 ## Habilidades
 
@@ -58,15 +44,6 @@ Neste projeto, você será capaz de:
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
 * Utilizar _CSS_ para adicionar estilo e posicionar elementos.
-
----
-
-## Entregáveis
-
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre
-[Git & GitHub](https://app.betrybe.com/course/fundamentals/git-github-e-internet/git-github-o-que-e-e-para-que-serve/82dcab41-249a-4738-8920-f0eb2cb91d1c/dinamica-de-controle-de-versao/4cbb1980-92f0-4663-9121-dbc0f8d207a7?use_case=calendar) sempre que precisar!
 
 ---
 
@@ -84,14 +61,7 @@ Você deve desenvolver uma página HTML estilizada com CSS.
 
 Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
 
-## Data de Entrega
-
-  - Serão `1` dia de projeto.
-  - Data de entrega para avaliação final do projeto: `14/10/2021 - 14:00h`.
-
 ---
-
-## Instruções para  entregar seu projeto
 
 ### Antes de começar a desenvolver
 
@@ -227,9 +197,7 @@ Você tem liberdade para adicionar novos comportamentos ao seu projeto, seja na 
 
 ### Dicas
 
-Para fazer este projeto você deverá atribuir a barra superior o `position: fixed;`. Leia mais sobre ele [aqui](https://www.w3schools.com/css/css_positioning.asp).
-
-Para colocar sua página no [GitHub Pages](https://pages.github.com/), não é necessário remover o conteúdo que já está lá, você pode apenas adicionar essa nova página. Para isso, todo o conteúdo desse projeto deve ser colocado em uma pasta `/projetos/lessons-learned`.
+Para fazer este projeto você deverá atribuir a barra superior o `position: fixed;`.
 
 ### Lista de requisitos
 
@@ -386,26 +354,3 @@ Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao 
 - Utilizar a classe "lado-esquerdo"
 - Utilizar a classe "lado-direito"
 - Verificar se os elementos com as classes lado-direito e lado-esquerdo estão posicionados corretamente
-
----
-
-### (OPCIONAL) Depois de terminar o desenvolvimento
-
-* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas
-  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**
-  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-x`
-
-Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um video explicativo](https://vimeo.com/362189205).
-
----
-
-## Avisos finais
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
-O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. 😉
-
----
