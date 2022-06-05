@@ -37,6 +37,7 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
         - [13. Utilize o Box model](#13-utilize-o-box-model)
         - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
         - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
+  - [Demonstração do Projeto](#demonstração-do-projeto)
 
 ## Habilidades requeridas
 
@@ -48,7 +49,9 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 
 ## O que foi desenvolvido
 
-Foi desenvolvido um site (em HTML e CSS), bem básico, que contem uma série de informações sobre o que eu aprendeu aqui na Trybe ao longo dos últimos três blocos iniciais do curso. O site está com os elementos posicionados e estilizados, além de conter a semântica apropriada para que seja acessível e melhor ranqueado.
+Foi desenvolvido um site básico, que contém uma série de informações sobre o que eu aprendi aqui na Trybe ao longo dos últimos 3 blocos iniciais do curso.
+
+O site está com os elementos posicionados e estilizados, além de conter a semântica apropriada para que seja acessível e melhor ranqueado.
 
 ## Tecnologias usadas
 
@@ -59,9 +62,9 @@ Foi desenvolvido um site (em HTML e CSS), bem básico, que contem uma série de 
 ### Antes de inicializar a página na máquina local
 
 1. Clone o repositório
-  * ``
+  * `git clone git@github.com:THIAGOMARTINS367/Trybe-project-lessons-learned.git`
   * Entre na pasta do repositório na sua máquina:
-    * `Trybe-project-lessons-learned`
+    * `cd Trybe-project-lessons-learned`
 
 2. Instale as dependências usando seu terminal
    * `npm install`
@@ -310,3 +313,9 @@ Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao 
 - Utilizar a classe "lado-esquerdo"
 - Utilizar a classe "lado-direito"
 - Verificar se os elementos com as classes lado-direito e lado-esquerdo estão posicionados corretamente
+
+---
+
+## Demonstração do Projeto
+
+### *Em produção*...
