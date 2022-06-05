@@ -1,45 +1,44 @@
 ### Descrição
 
-Este projeto foi desenvolvido durante o período de Curso da Trybe :rocket:
+Este projeto foi desenvolvido durante o período de Curso da Trybe 🚀
 
 O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.
+
+### ATENÇÃO: Para utilizar a aplicação acesse o link no canto direito em "About".
 
 ---
 
 ## SUMÁRIO
 
-- [Habilidades](#habilidades)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-- Instruções para entregar seu projeto
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-- [Como desenvolver](#como-desenvolver)
-  - [Linter](#linter)
-  - [Avaliador Automático](#avaliador-automático)
-- [Requisitos](#requisitos)
-  - [Dicas](#dicas)
-  - [Lista de requisitos](#lista-de-requisitos)
-    - [1. Adicione uma cor de fundo específica para a página](#1-adicione-uma-cor-de-fundo-específica-para-a-página)
-    - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
-    - [3. Adicione uma foto sua à página](#3-adicione-uma-foto-sua-à-página)
-    - [4. Adicione uma lista de lições aprendidas à página](#4-adicione-uma-lista-de-lições-aprendidas-à-página)
-    - [5. Crie uma lista de lições que ainda deseja aprender para a página](#5-crie-uma-lista-de-lições-que-ainda-deseja-aprender-para-a-página)
-    - [6. Adicione um rodapé para a página](#6-adicione-um-rodapé-para-a-página)
-    - [7. Insira pelo menos um link externo na página](#7-insira-pelo-menos-um-link-externo-na-página)
-    - [8. Crie um artigo sobre seu aprendizado](#8-crie-um-artigo-sobre-seu-aprendizado)
-    - [9. Crie uma seção que conta uma passagem sobre seu aprendizado](#9-crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
-    - [10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles](#10-aplique-elementos-html-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
-  - [Bônus](#bônus)
-    - [11. Teste a semântica da sua página está aprovada pelo site CodeSniffer](#11-teste-a-semântica-da-sua-página-está-aprovada-pelo-site-codesniffer)
-    - [12. Adicione uma tabela à página](#12-adicione-uma-tabela-à-página)
-    - [13. Utilize o Box model](#13-utilize-o-box-model)
-    - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
-    - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
+- [Habilidades](#habilidades-requeridas)
+  - [O que foi desenvolvido](#o-que-foi-desenvolvido)
+  - [Tecnologias usadas](#tecnologias-usadas)
+  - [Antes de inicializar a página na máquina local](#antes-de-inicializar-a-página-na-máquina-local)
+  - [Instruções de desenvolvimento](#instruções-de-desenvolvimento)
+    - [Como desenvolver](#como-desenvolver)
+      - [Linter](#linter)
+      - [Avaliador Automático](#avaliador-automático)
+    - [Requisitos](#requisitos)
+      - [Dicas](#dicas)
+      - [Lista de requisitos](#lista-de-requisitos)
+        - [1. Adicione uma cor de fundo específica para a página](#1-adicione-uma-cor-de-fundo-específica-para-a-página)
+        - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
+        - [3. Adicione uma foto sua à página](#3-adicione-uma-foto-sua-à-página)
+        - [4. Adicione uma lista de lições aprendidas à página](#4-adicione-uma-lista-de-lições-aprendidas-à-página)
+        - [5. Crie uma lista de lições que ainda deseja aprender para a página](#5-crie-uma-lista-de-lições-que-ainda-deseja-aprender-para-a-página)
+        - [6. Adicione um rodapé para a página](#6-adicione-um-rodapé-para-a-página)
+        - [7. Insira pelo menos um link externo na página](#7-insira-pelo-menos-um-link-externo-na-página)
+        - [8. Crie um artigo sobre seu aprendizado](#8-crie-um-artigo-sobre-seu-aprendizado)
+        - [9. Crie uma seção que conta uma passagem sobre seu aprendizado](#9-crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
+        - [10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles](#10-aplique-elementos-html-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
+      - [Bônus](#bônus)
+        - [11. Teste a semântica da sua página está aprovada pelo site CodeSniffer](#11-teste-a-semântica-da-sua-página-está-aprovada-pelo-site-codesniffer)
+        - [12. Adicione uma tabela à página](#12-adicione-uma-tabela-à-página)
+        - [13. Utilize o Box model](#13-utilize-o-box-model)
+        - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
+        - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
 
-## Habilidades
-
-Neste projeto, você será capaz de:
+## Habilidades requeridas
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
@@ -47,75 +46,32 @@ Neste projeto, você será capaz de:
 
 ---
 
-## O que deverá ser desenvolvido
+## O que foi desenvolvido
 
-Você vai desenvolver um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+Foi desenvolvido um site (em HTML e CSS), bem básico, que contem uma série de informações sobre o que eu aprendeu aqui na Trybe ao longo dos últimos três blocos iniciais do curso. O site está com os elementos posicionados e estilizados, além de conter a semântica apropriada para que seja acessível e melhor ranqueado.
 
-💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar todas as pessoas!
+## Tecnologias usadas
 
-![exemplo](./exemplo.png)
-
-## Desenvolvimento
-
-Você deve desenvolver uma página HTML estilizada com CSS.
-
-Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
+- `HTML`, `CSS`
 
 ---
 
-### Antes de começar a desenvolver
+### Antes de inicializar a página na máquina local
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-017-project-lessons-learned.git`.
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-017-project-lessons-learned`
+  * ``
+  * Entre na pasta do repositório na sua máquina:
+    * `Trybe-project-lessons-learned`
 
-2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * npm install
+2. Instale as dependências usando seu terminal
+   * `npm install`
 
-2. Crie uma branch a partir da branch `master`
-  * Verifique que você está na branch `master`
-    * Exemplo: `git branch`
-  * Se não estiver, mude para a branch `master`
-    * Exemplo: `git checkout master`
-  * Agora, crie uma branch onde você vai guardar os `commits` do seu projeto
-    * Você deve criar uma branch no seguinte formato: `nome-sobrenome-nome-do-projeto`
-    * Exemplo: `git checkout -b maria-soares-lessons-learned`
-
-3. Crie na raiz do projeto os arquivos que você precisará desenvolver:
-  * Verifique que você está na raiz do projeto
-    * Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/maria/code/**sd-017-project-lessons-learned**_
-  * Crie os arquivos index.html e style.css
-    * Exemplo: `touch index.html style.css`
-
-4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
-  * Verifique que as mudanças ainda não estão no _stage_
-    * Exemplo: `git status` (devem aparecer listados os novos arquivos em vermelho)
-  * Adicione o novo arquivo ao _stage_ do Git
-      * Exemplo:
-        * `git add .` (adicionando todas as mudanças - _que estavam em vermelho_ - ao stage do Git)
-        * `git status` (devem aparecer listados os arquivos em verde)
-  * Faça o `commit` inicial
-      * Exemplo:
-        * `git commit -m 'iniciando o projeto. VAMOS COM TUDO :rocket:'` (fazendo o primeiro commit)
-        * `git status` (deve aparecer uma mensagem tipo _nothing to commit_ )
-
-5. Adicione a sua branch com o novo `commit` ao repositório remoto
-  * Usando o exemplo anterior: `git push -u origin maria-soares-lessons-learned`
-
-6. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-017-project-lessons-learned/pulls)
-  * Clique no botão verde _"New pull request"_
-  * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
-  * Clique no botão verde _"Create pull request"_
-  * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
-  * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-017-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
+3.  Inicialize o projeto
+    * Utilize o comando `npm start` dentro da pasta `Trybe-project-lessons-learned` para rodar o projeto em sua máquina.
 
 --- 
 
-### Durante o desenvolvimento
+### Instruções de desenvolvimento 
 
 * Faça `commits` das alterações que você fizer no código regularmente
 
@@ -144,7 +100,7 @@ npm run lint:styles
 
 Após clonar o projeto, você deverá criar os arquivos **index.html** e **style.css** que conterão seu código HTML e CSS, respectivamente. Observe que seus arquivos **devem** possuir estes nomes para que seu projeto seja testado corretamente pelo avaliador automático.
 
-Você é livre para adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a Pessoa Instrutora que te acompanha.
+Você é livre para adicionar outros arquivos se julgar necessário.
 
 Lembre-se que sua página deverá conter semântica adequada e para isso verifique se sua página está aprovada no [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/).
 
