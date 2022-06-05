@@ -70,7 +70,7 @@ O site está com os elementos posicionados e estilizados, além de conter a sem�
    * `npm install`
 
 3.  Inicialize o projeto
-    * Utilize o comando `npm start` dentro da pasta `Trybe-project-lessons-learned` para rodar o projeto em sua máquina.
+    * Utilize uma extenção do VsCode (Live Server) ou inicie um servidor local para rodar o projeto em sua máquina.
 
 --- 
 
